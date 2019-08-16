@@ -105,6 +105,7 @@ echo exit
 ) > serviceDownloadClient.bat
 
 (
+echo @ECHO OFF
 echo CD /D %%defaultTransferFile%%
 echo echo This is a standard external update application.
 echo echo.
@@ -124,7 +125,6 @@ echo echo Status: Downloading new Update Contents from the RediPanda Proxy Netwo
 echo echo.
 echo echo Console: Pending POST request...
 echo bitsadmin.exe /transfer UpdateJob "https://raw.githubusercontent.com/RediPanda/redis-modpack/master/Updates/Game/Game.zip" "%%appdata%%\NXT Studios\library\client\dl\Game.zip"
-echo TIMEOUT 2 /NOBREAK >NUL
 ) > serviceUpdateGame.bat
 
 goto ANIMATE

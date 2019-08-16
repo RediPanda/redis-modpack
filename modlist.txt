@@ -1,0 +1,31 @@
+MODLIST - 1.0
+
+Progressive Bosses 		- http://www.9minecraft.net/progressive-bosses-mod/
+Portability 			- http://www.9minecraft.net/portality-mod/
+Apotheosis 			- http://www.9minecraft.net/apotheosis-mod/
+Placebo				- http://www.9minecraft.net/placebo/
+Forbidden 			- http://www.9minecraft.net/forbidden-and-arcanus-mod/
+Girl Armour 			- http://www.9minecraft.net/girl-armor-mod/
+Infernal Mobs 			- http://www.9minecraft.net/infernal-mobs-mod/
+Angel Ring Mod			- http://www.mc-mod.net/angel-ring-mod/
+EasyExcavate 			- http://www.9minecraft.net/easyexcavate-mod/
+Death Chest 			- http://www.9minecraft.net/vanilla-death-chest-mod/
+Fabric Modloader 		- http://www.mc-mod.net/fabric-modloader/
+Fabric API 			- http://www.mc-mod.net/fabric-api-mod/
+Dungeon Crawl 			- http://www.mc-mod.net/dungeon-crawl-mod/
+Rift Mod Loader 		- http://www.9minecraft.net/rift-mod-loader/
+Voyage Mod			- http://www.mc-mod.net/voyage-mod/
+CopyPaste 			- http://www.9minecraft.net/copypaste-mod/
+JustEnoughItems			- http://www.9minecraft.net/just-enough-items-mod/
+Traverse Mod			- http://www.mc-mod.net/traverse-mod-2/
+Ama's Damage Indicator 		- http://www.9minecraft.net/amas-damage-indicator-mod/
+EmbellishCraft 			- http://www.9minecraft.net/embellishcraft-mod/
+Twilight Forest 		- https://loveminecraft.com/twilight-forest-mod/
+BuildCraft			- https://loveminecraft.com/buildcraft-mod/
+Mo's Creature 			- https://loveminecraft.com/mo-creatures-mod/
+Dooglamoo 			- http://minecraftmodpacks.net/mods/dooglamoo-worlds/
+Xaero's Minimap 		- http://www.9minecraft.net/xaeros-minimap-mod/
+Ruins Mod 			- http://www.9minecraft.net/ruins-mod/
+MrCrayfish's Furniture	 	- https://pcminecraft-mods.com/mrcrayfishs-furniture-mod-for-minecraft-1-14-3-1-12-2-1-11-2-1-7-10/
+TooStrongMonster		- https://pcminecraft-mods.com/toostrongmonster-mod-minecraft-1-14-4/
+Hwyla-Mod			- http://www.9minecraft.net/hwyla-mod/
