@@ -97,7 +97,8 @@ echo set hostServer=OCEANIC2 > hostName.bat
 (
 echo CD /D %%defaultTransferFile%%
 echo cls
-echo bitsadmin.exe /transfer UpdateJob "%%DLLink%%" "%%appdata%%\RediPanda\library\client\dl\%file%"
+echo bitsadmin.exe /transfer UpdateJob "%%DLLink%%" "%%appdata%%\RediPanda\library\client\dl\%%file%%"
+echo exit
 ) > serviceDownloadClient.bat
 goto ANIMATE
 
@@ -195,7 +196,7 @@ TITLE Main Menu // Redi's Modpack
 cls
 echo.
 echo.
-echo                   NXT Studios
+echo                   Redi's Modpack
 echo.
 echo.
 echo           [1] Launch the Application.
@@ -277,7 +278,7 @@ goto UPDATELOOPHOLDER
 CD /D %defaultTransferFile%
 set clockUpdateClient=0
 set UclockUpdateClient=0
-set latestStable=N/A
+set latestClientStable=N/A
 set latestGameStable=N/A
 CALL latestClientStable.bat
 CALL latestGameStable.bat
@@ -289,7 +290,9 @@ echo.   1] Update the Client Application [Current: %clientInstalledVersion% -- L
 echo.
 echo    2] Update the Game Application [Current: %applicationVersion% -- Latest: %latestStable%]
 echo.
-echo    3] Exit the Updater Service
+echo    3] Refresh Page
+echo.
+echo    4] Exit the Updater Service
 echo.
 echo.
 echo  * If the Game Application Current Version is empty, it usually means the Game hasn't been properly
@@ -302,7 +305,8 @@ echo.
 set /p "updatorsel=> "
 IF %updatorsel%==1 goto UPDATECLIENT1
 IF %updatorsel%==2 goto UPDATEGAME1
-IF %updatorsel%==3 goto ANIMATE
+IF %updatorsel%==3 goto UPDATESELECTOR
+IF %updatorsel%==4 goto ANIMATE
 goto UPDATESELECTOR
 
 :UPDATECLIENT1
