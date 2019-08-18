@@ -1,1 +1,0 @@
-set latestClientStable=1.5
