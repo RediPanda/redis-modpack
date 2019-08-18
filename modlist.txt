@@ -13,7 +13,6 @@ Death Chest 			- http://www.9minecraft.net/vanilla-death-chest-mod/
 Fabric Modloader 		- http://www.mc-mod.net/fabric-modloader/
 Fabric API 			- http://www.mc-mod.net/fabric-api-mod/
 Dungeon Crawl 			- http://www.mc-mod.net/dungeon-crawl-mod/
-Rift Mod Loader 		- http://www.9minecraft.net/rift-mod-loader/
 Voyage Mod			- http://www.mc-mod.net/voyage-mod/
 CopyPaste 			- http://www.9minecraft.net/copypaste-mod/
 JustEnoughItems			- http://www.9minecraft.net/just-enough-items-mod/
@@ -23,9 +22,36 @@ EmbellishCraft 			- http://www.9minecraft.net/embellishcraft-mod/
 Twilight Forest 		- https://loveminecraft.com/twilight-forest-mod/
 BuildCraft			- https://loveminecraft.com/buildcraft-mod/
 Mo's Creature 			- https://loveminecraft.com/mo-creatures-mod/
-Dooglamoo 			- http://minecraftmodpacks.net/mods/dooglamoo-worlds/
 Xaero's Minimap 		- http://www.9minecraft.net/xaeros-minimap-mod/
 Ruins Mod 			- http://www.9minecraft.net/ruins-mod/
-MrCrayfish's Furniture	 	- https://pcminecraft-mods.com/mrcrayfishs-furniture-mod-for-minecraft-1-14-3-1-12-2-1-11-2-1-7-10/
-TooStrongMonster		- https://pcminecraft-mods.com/toostrongmonster-mod-minecraft-1-14-4/
 Hwyla-Mod			- http://www.9minecraft.net/hwyla-mod/
+Draylar's Battle Towers 	- https://pcminecraft-mods.com/draylars-battle-towers-mod-minecraft-1-14/
+TechReborn 			- https://pcminecraft-mods.com/techreborn-mod-for-minecraft-1-14-4-1-12-2/
+Lycanite's Mobs 		- http://www.9minecraft.net/lycanites-mobs-mod/
+Simple Storage Network 		- http://www.9minecraft.net/simple-storage-network-mod/
+Fluid Tank 			- http://www.9minecraft.net/large-fluid-tank-mod/
+Iron Chests 			- http://www.9minecraft.net/iron-chests-mod/
+SimpleHarvest 			- http://www.9minecraft.net/simpleharvest-mod/
+Gravel Miner 			- http://www.9minecraft.net/gravel-miner-mod/
+Extra Buttons 			- http://www.9minecraft.net/extra-buttons-mod/
+Better Animations 		- http://www.9minecraft.net/better-animations-collection-2-mod/
+Aquatic Mod Update 		- http://www.9minecraft.net/upgrade-aquatic-mod/
+RF Tools 			- http://www.9minecraft.net/rftools-base-mod/
+McJtyLib 			- http://www.9minecraft.net/mcjtylib/
+Good Night's Sleep 		- http://www.9minecraft.net/good-nights-sleep-mod/
+Corpse Mod 			- http://www.9minecraft.net/corpse-mod/
+Reap Mod 			- http://www.9minecraft.net/reap-mod/
+Vanilla Toolsets 		- http://www.9minecraft.net/vanilla-toolsets-mod/
+Gobber Mod 			- http://www.9minecraft.net/gobber-mod/
+Compressed Items 		- http://www.9minecraft.net/compressed-items-mod/
+Essentials 			- http://www.9minecraft.net/essentials-mod/
+Stone-Chest 			- http://www.9minecraft.net/stone-chest-mod/
+Restone Logics 			- http://www.9minecraft.net/redstone-gates-mod/
+Road Stuff 2 			- http://www.9minecraft.net/road-stuff-2-mod/
+Weapon Craftery 		- http://www.9minecraft.net/weapon-craftery-mod/
+OpenBlocks Elevator Mod 	- http://www.9minecraft.net/openblocks-elevator-mod/
+CC Tweaked			- http://www.9minecraft.net/cc-tweaked-mod/
+Mystical Wildlife 		- http://www.9minecraft.net/mystical-wildlife-mod/
+Charms 				- http://www.9minecraft.net/charm-mod/
+Colytra 			- http://www.9minecraft.net/colytra-mod/
+Chinese Workshop 		- http://www.9minecraft.net/chinese-workshop-mod/
